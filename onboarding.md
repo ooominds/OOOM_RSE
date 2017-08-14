@@ -22,25 +22,38 @@ Head there and request the following software:
 
 Make sure you are logged into your MUSE account first.
 
-Head to [https://www.visualstudio.com](https://www.visualstudio.com) and get the Visual Studio community edition (Make sure you get the community edition!!!)
+Once you have done this head to [https://www.visualstudio.com](https://www.visualstudio.com) and get the Visual Studio community edition (Make sure you get the community edition or you'll have to pay for this!!!)
 
 ### Open Source software
 
-As you have noticed all of this information is stored in a repository within GitHub. For now think of it as a project folder which contains all of the project files and stores each files revision history.
+We will also need you to install the following open source software:
 
 - **Git** is what we will be using for version control for all the software we will develop over the course of this project. So go to [the git website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and install in in your computer.
 - You will need a text editor as well. We recommend [Atom ](https://atom.io) as this integrates really well with Git and is a rather flexible and customisable editor. If you prefer any other (Notepad ++, vim, sublime) go ahead and make sure you have this installed.
--
+- Installing [Anaconda ](https://docs.continuum.io/anaconda/install/). Anaconda is a flexible easy-to-install package manager, environment manager and Python distribution.
+- *R and RStudio*: get the latest R version from [here](https://www.r-project.org) and RStudio from [here](https://www.rstudio.com).
+
 
 ## Following steps
-Get a GitHub account at (https://github.com)[https://github.com].
 
+- Get a GitHub account at (https://github.com)[https://github.com].
+- You will be required to attend a RSE workshop in the next couple of weeks, make sure you email your assigned RSE to arrange this.
+- Dust off your command line skills: we have a mini(really mini) tutorial on the  command line. Feel free to head [here](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/terminal_tutorial.md) and have a look at this.
 
+Not feeling super confident using the command line or are you a very visual person (like [Tania](https://github.com/trallard))?
+
+ Consider using a GUI client for your version control tasks.
+My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer (GitHub desktop)[https://desktop.github.com].
+
+You can use a mixture of GUI and command line for your workflow... writing good software, following best practices should not be overcomplicated, but it takes practice. 
 
 ## Some useful resources
+If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
 
 - [Ten simple rules for taking advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 - [Code school Try.git interactive tutorial](https://try.github.io/levels/1/challenges/1)
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git command line cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
 - [Git glossary](https://help.github.com/articles/github-glossary/)
+
+If you have identified any other awesome and useful resources that you want to share with the team please add them here!
