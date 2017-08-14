@@ -44,9 +44,9 @@ Not feeling super confident using the command line or are you a very visual pers
  Consider using a GUI client for your version control tasks.
 My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer [GitHub desktop](https://desktop.github.com)
 
-You can use a mixture of GUI and command line for your workflow... writing good software, following best practices should not be overcomplicated, but it takes practice.
+You can use a mixture of GUI and command line for your workflow... writing good software and following best practices should not be overcomplicated, but it takes practice and loads of committment (just like science right?).
 
-- You will be required to attend a RSE workshop in the next couple of weeks, make sure to check the project calendar for the full details:
+- You will be required to attend a RSE workshop in the next couple of weeks, make sure to check the project google calendar for the full details:
 
 
 Induction                                                        | Facilitator  | Date     |
