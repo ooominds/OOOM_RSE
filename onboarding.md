@@ -35,8 +35,8 @@ We will also need you to install the following open source software:
 
 
 ## Following steps
+Some other things that you will need to do:
 
-- Get a GitHub account at [ https://github.com](https://github.com)
 - Dust off your command line skills: we have a mini(really mini) tutorial on the  command line. Feel free to head [here](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/terminal_tutorial.md) and have a look at this.
 
 Not feeling super confident using the command line or are you a very visual person (like [Tania](https://github.com/trallard))?
@@ -52,6 +52,11 @@ You can use a mixture of GUI and command line for your workflow... writing good 
 Induction                                                        | Facilitator  | Date     |
 |------------------------------------------------------------------|--------------|----------|
 | Getting started with version control and software best practices | Tania Allard | 06/09/17 |
+
+
+- Get a GitHub account at [ https://github.com](https://github.com)
+  - **PhDs**: you might want to apply for a [student developer pack](https://education.github.com/pack). It comes with loads of cool tools for software development (including free TravisCI for your projects)
+  - **RAs**: you cannot get a student's account but you can get a get a discount [here](https://education.github.com/discount_requests/new) and this will allow you to have free private repositories
 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
