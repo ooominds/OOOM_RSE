@@ -30,22 +30,28 @@ We will also need you to install the following open source software:
 
 - **Git** is what we will be using for version control for all the software we will develop over the course of this project. So go to [the git website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and install in in your computer.
 - You will need a text editor as well. We recommend [Atom ](https://atom.io) as this integrates really well with Git and is a rather flexible and customisable editor. If you prefer any other (Notepad ++, vim, sublime) go ahead and make sure you have this installed.
-- Installing [Anaconda ](https://docs.continuum.io/anaconda/install/). Anaconda is a flexible easy-to-install package manager, environment manager and Python distribution.
-- *R and RStudio*: get the latest R version from [here](https://www.r-project.org) and RStudio from [here](https://www.rstudio.com).
+- **Anaconda**: [Anaconda ](https://docs.continuum.io/anaconda/install/) is a flexible easy-to-install package manager, environment manager and Python distribution.
+- **R and RStudio**: get the latest R version from [here](https://www.r-project.org) and RStudio from [here](https://www.rstudio.com).
 
 
 ## Following steps
 
-- Get a GitHub account at (https://github.com)[https://github.com].
-- You will be required to attend a RSE workshop in the next couple of weeks, make sure you email your assigned RSE to arrange this.
+- Get a GitHub account at [ https://github.com](https://github.com)
 - Dust off your command line skills: we have a mini(really mini) tutorial on the  command line. Feel free to head [here](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/terminal_tutorial.md) and have a look at this.
 
 Not feeling super confident using the command line or are you a very visual person (like [Tania](https://github.com/trallard))?
 
  Consider using a GUI client for your version control tasks.
-My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer (GitHub desktop)[https://desktop.github.com].
+My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer [GitHub desktop](https://desktop.github.com)
 
-You can use a mixture of GUI and command line for your workflow... writing good software, following best practices should not be overcomplicated, but it takes practice. 
+You can use a mixture of GUI and command line for your workflow... writing good software, following best practices should not be overcomplicated, but it takes practice.
+
+- You will be required to attend a RSE workshop in the next couple of weeks, make sure to check the project calendar for the full details:
+
+
+Induction                                                        | Facilitator  | Date     |
+|------------------------------------------------------------------|--------------|----------|
+| Getting started with version control and software best practices | Tania Allard | 06/09/17 |
 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:

@@ -4,9 +4,8 @@ This repository contains all the RSE related tasks for the Out of Our Minds proj
 
 Your assigned RSEs for this project are:
 
-- Tania Allard, PhD (trallard)
-- Mike Croucher, PhD (mikecroucher)
-
+- Tania Allard, PhD (trallard)[https://github.com/trallard]
+- Mike Croucher, PhD (mikecroucher)[https://github.com/mikecroucher]
 Feel free to contact them for software development queries.
 
 ## GitHub as a central tool for our project
