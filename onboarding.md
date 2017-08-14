@@ -8,7 +8,6 @@ This repository contains some resources and will help us to keep track of the wo
 
 Don't worry if I have already used loads of words you have never heard before... you will get familiar with all of this sooner than you think.
 
-
 ## Getting you up and running
 You will be needing a lot of software to be installed... we tried to gather a sensible amount of resources that will get you going for now.
 
@@ -43,7 +42,7 @@ Not feeling super confident using the command line or are you a very visual pers
  Consider using a GUI client for your version control tasks.
 My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer [GitHub desktop](https://desktop.github.com)
 
-You can use a mixture of GUI and command line for your workflow... writing good software and following best practices should not be overcomplicated, but it takes practice and loads of (just like science right?).
+You can use a mixture of GUI and command line for your workflow... writing good software and following best practices should not be overcomplicated, but it takes practice and commitment (just like science right?).
 
 - You will be required to attend a RSE workshop/induction in the next couple of weeks, make sure to check the project google calendar for the full details.
 
@@ -69,4 +68,9 @@ If you want to refresh some of your skills before your upcoming induction sessio
 If you have identified any other awesome and useful resources that you want to share with the team please add them here!
 
 
-**Important**: if you feel you need additional training or are struggling with your software do not hesitate and approach your RSE, she/he will be happy to discuss this with you and point you in the right direction 
+### **Important**:
+if you feel you need additional training or are struggling with your software do not hesitate and approach your RSE, she/he will be happy to discuss this with you and point you in the right direction
+
+We are here to help you to develop better research software...
+
+![](assets/BSBR.jpg)
