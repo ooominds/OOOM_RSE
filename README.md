@@ -21,6 +21,11 @@ As you have noticed all of this information is stored in a repository within Git
 
  Make sure to keep your repositories/issues up to date. Push and pull regularly and frequently.
 
+## What do you mean by *ALL* the pieces of software?
+Git will be your version control tool, meaning it will help you keep track of your scripts and other types of objects as well as of their _evolution_.
+
+Hence, your code does not need to be perfect or completed before being added to a repository. In fact we think you'd benefit more from adding all your scripts to the main OOOminds repository... from _dummy_ scripts to _production ready_ code. 
+
 ## On the repositories' visibility
 The content of this repository is completely public. This is done to ensure communication and collaboration among the various members  included in the project.
 
