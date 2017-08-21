@@ -1,10 +1,10 @@
 # Onboarding for OOOminders
 
-This is your jumping point to get you up and running with your computational work as an OOOminder.
+This is your starting point to get you up and running with your computational work as an OOOminder.
 
-(Please note that this is still a work in progress and you can help to make this a better onboarding experience for those that come after you!)
+(Please note that this is still a work in progress and you can help to make this a better onboarding experience for those that come after you! Want to add something? Create a Pull request and get going 👩🏻‍💻)
 
-This repository contains some resources and will help us to keep track of the work being developed as part of the project. It will as well, serve as the main point of technical contact between you and your RSE.
+This repository will point you to some useful resources and will help us to keep track of the work being developed as part of the project. It will as well, serve as the main point of technical contact between you and your RSE.
 
 Don't worry if I have already used loads of words you have never heard before... you will get familiar with all of this sooner than you think.
 
@@ -27,17 +27,33 @@ Once you have done this head to [https://www.visualstudio.com](https://www.visua
 We will also need you to install the following open source software:
 
 - **Git** is what we will be using for version control for all the software we will develop over the course of this project. So go to [the git website](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) and get it installed on your computer.
-- You will need a text editor as well. We recommend [Atom ](https://atom.io) as this integrates really well with Git and is a rather flexible and customisable editor. If you prefer any other (Notepad ++, vim, sublime) go ahead and make sure you have this installed.
+- **Text editor:** You will need a text editor as well. Our favourite is [Atom ](https://atom.io) as this integrates really well with Git and is a rather flexible and customisable editor. Petar's favourite is [Sublime  text](https://www.sublimetext.com), both are multi-platform.
+If you prefer any other (Notepad ++, vim, sublime) go ahead and make sure you have this installed.
+- **R and RStudio**: R is an excellent statistical open source software and Rstudio an awesome IDE to work with. Get the latest R version from [here](https://www.r-project.org) and RStudio from [here](https://www.rstudio.com).
 - **Anaconda**: [Anaconda ](https://docs.continuum.io/anaconda/install/) is a flexible easy-to-install package manager, environment manager and Python distribution.
-- **R and RStudio**: get the latest R version from [here](https://www.r-project.org) and RStudio from [here](https://www.rstudio.com).
 
+If you installed the full Anaconda version you might already have the Anaconda Navigator installed as well as Spyder and Orange, just to be sure install them via conda:
+```bash
+$ conda install spyder, orange3
+```
+
+Finally, we will need a package called **r-feather**, which will allow Python and R to communicate with each other. You will need to install this on both R and Python.
+From [conda](https://anaconda.org/r/r-feather):
+```bash
+$ conda install -c r r-feather
+```
+
+For [R](https://cran.r-project.org/web/packages/feather/README.html):
+```R
+install.packages('feather')
+```
 
 ## Following steps
 Some other things that you will need to do:
 
-- Dust off your command line skills: we have a mini(really mini) tutorial on the  command line. Feel free to head [here](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/terminal_tutorial.md) and have a look at this.
+- Dust off your command line skills: we have a mini (really mini) tutorial on the  command line. Feel free to head [here](https://github.com/mikecroucher/Intro_to_HPC/blob/gh-pages/terminal_tutorial.md) and have a look at this.
 
-Not feeling super confident using the command line or are you a very visual person (like [Tania](https://github.com/trallard))?
+Not feeling super confident using the command line for all your version control tasks or are you a very visual person (like [Tania](https://github.com/trallard))?
 
  Consider using a GUI client for your version control tasks.
 My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer [GitHub desktop](https://desktop.github.com)
@@ -67,6 +83,19 @@ If you want to refresh some of your skills before your upcoming induction sessio
 
 If you have identified any other awesome and useful resources that you want to share with the team please add them here!
 
+## Something else... Storage
+We currently have 10 Terabytes of storage. Contact Mike Croucher or Petar to be added to the group of people who can access this.
+
+On ShARC, this storage is at `/shared/ooominds1`. Note that if you do
+
+`ls /shared/`
+
+the `ooominds1` directory might not appear. This is because it is made available on demand. One way to demand it is just to go there. i.e. do
+
+`cd /shared/ooominds1`
+
+The storage area can also be made available on your own desktops and laptops.
+Details can be found [here](https://www.sheffield.ac.uk/cics/research-storage/using-research-storage).
 
 ### **Important**:
 if you feel you need additional training or are struggling with your software do not hesitate and approach your RSE, she/he will be happy to discuss this with you and point you in the right direction
