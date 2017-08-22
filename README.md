@@ -15,7 +15,7 @@ As you have noticed all of this information is stored in a repository within Git
 
  For now think of it as a project folder which contains all of the project files and stores each file's revision history... which will avoid this horrible situation *evryone* has faced
 
-![ VC](./assets/versioncontrol.gif)
+<center><img src='./assets/versioncontrol.gif'></center>
 
  We will use git and GitHub along with **all** the pieces of software that will be developed as part of the OOOminds project.
 

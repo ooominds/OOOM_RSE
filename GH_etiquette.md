@@ -1,4 +1,5 @@
 # Github etiquette
+<center><img src='./assets/class-act.png' height='400px'></center>
 
 ## Opening issues
 There are multiple situations in which you might want to open an issue:
@@ -8,7 +9,7 @@ There are multiple situations in which you might want to open an issue:
 
 Now... have you ever tried to fix something without knowing what needed to be solved? Huh?
 
-![](./assets/issue.png)
+<center><img src='./assets/issue.png' height='400px'></center>
 
 Exactly... when submitting an issue make sure you include the following information, you know, to make everybody's lives easier:
 - What you were trying to do? What were the conditions that produced this specific error?

@@ -102,4 +102,4 @@ if you feel you need additional training or are struggling with your software do
 
 We are here to help you to develop better research software...
 
-![](assets/BSBR.jpg)
+<center>![](assets/BSBR.jpg)</center>
