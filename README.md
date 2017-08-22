@@ -24,7 +24,7 @@ As you have noticed all of this information is stored in a repository within Git
 ## What do you mean by *ALL* the pieces of software?
 Git will be your version control tool, meaning it will help you keep track of your scripts and other types of objects as well as of their _evolution_.
 
-Hence, your code does not need to be perfect or completed before being added to a repository. In fact we think you'd benefit more from adding all your scripts to the main OOOminds repository... from _dummy_ scripts to _production ready_ code. 
+Hence, your code does not need to be perfect or completed before being added to a repository. In fact we think you'd benefit more from adding all your scripts to the main OOOminds repository... from _dummy_ scripts to _production ready_ code.
 
 ## On the repositories' visibility
 The content of this repository is completely public. This is done to ensure communication and collaboration among the various members  included in the project.
@@ -35,3 +35,7 @@ If for any reasons your work has to be kept _private_ during development phases 
 New members should start by reading the [onboarding file](./onboarding.md) in this repository.
 
 This file contains information on the tasks you need to complete over the first few weeks into the project (software related).
+
+## GitHub etiquette
+We know some of you are experienced git/GitHub users while others have never heard of this before.
+Make sure you visit the [GitHub etiquette section](./GH_etiquette.md) before getting started.
