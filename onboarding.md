@@ -83,7 +83,7 @@ If you want to refresh some of your skills before your upcoming induction sessio
 
 If you have identified any other awesome and useful resources that you want to share with the team please add them here!
 
-## Something else... Storage
+## Something else... Storage!!
 We currently have 10 Terabytes of storage. Contact Mike Croucher or Petar to be added to the group of people who can access this.
 
 On ShARC, this storage is at `/shared/ooominds1`. Note that if you do
