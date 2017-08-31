@@ -39,7 +39,7 @@ Where external information references are available - such as Issue/Story IDs, P
 
 Remember that your commit message must survive the ravages of time. Try to link to something that will be preserved equally well -- another commit for example, rather than linking to master.
 
-** Each commit message should include the reason why this commit was made. Usually by adding a sentence completing the form 'So that we...' will give an amazing amount of context to the history that the code change itself cannot **
+**Each commit message should include the reason why this commit was made. Usually by adding a sentence completing the form 'So that we...' will give an amazing amount of context to the history that the code change itself cannot**
 
 ## Make atomic changes
 If you make two specific changes make sure to add them in separate commits. Each commit should cover everything related to the change.
