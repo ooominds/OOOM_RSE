@@ -63,10 +63,9 @@ You can use a mixture of GUI and command line for your workflow... writing good 
 - You will be required to attend a RSE workshop/induction in the next couple of weeks, make sure to check the project google calendar for the full details.
 
 
-Induction                                                        | Facilitator  | Date     | Target attendees|
-|------------------------------------------------------------------|--------------|----------|
-| Getting started with version control and software best practices | Tania Allard | 09/10/17 | PhDs and RAs |
-
+| Induction                                                        | Facilitaror  | Date     | Target audience |
+|------------------------------------------------------------------|--------------|----------|-----------------|
+| Getting started with version control and software best practices | Tania Allard | 06/09/17 | PhDs and RAs    |
 
 - Get a GitHub account at [ https://github.com](https://github.com)
   - **PhDs**: you might want to apply for a [student developer pack](https://education.github.com/pack). It comes with loads of cool tools for software development (including free TravisCI for your projects)
