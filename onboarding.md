@@ -13,10 +13,12 @@ You will be needing a lot of software to be installed... we tried to gather a se
 
 ### Site licensed software
 
-The main point of access to get licensed software as a PhD student or staff at the university of Sheffield is via the [CiCS software website](https://www.sheffield.ac.uk/software/).
+The main point of access to get licensed software as a PhD student or member of staff at the university of Sheffield is via the [CiCS software website](https://www.sheffield.ac.uk/software/).
 
-Head there and request the following software:
+Some site licensed software that you will find useful as an ooominder is:
+
 - MATLAB
+- Mathematica
 - Intel Parallel Studio XE Composer
 
 Make sure you are logged into your MUSE account first.
