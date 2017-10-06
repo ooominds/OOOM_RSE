@@ -76,11 +76,18 @@ You can use a mixture of GUI and command line for your workflow... writing good 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
 
-- [Ten simple rules for taking advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
+### Online learning resources
+- [Git immersion](http://gitimmersion.com)
 - [Code school Try.git interactive tutorial](https://try.github.io/levels/1/challenges/1)
+- [Learn Git branching](https://learngitbranching.js.org)
+
+### Cheatsheets
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Git command line cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [Git command line cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)- [MATLAB commands in NumPy](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
+
+### Additional resources
 - [Git glossary](https://help.github.com/articles/github-glossary/)
+- [Ten simple rules for taking advantage of Git and GitHub](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004947)
 
 If you have identified any other awesome and useful resources that you want to share with the team please add them here!
 
