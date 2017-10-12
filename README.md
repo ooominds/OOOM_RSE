@@ -2,8 +2,6 @@
 
 <!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 - [Github as a central tool for collaboration](#github-as-a-central-tool-for-collaboration)
-- [What do you mean by ALL the pieces of software?](#what-do-you-mean-by-ALL-the-pieces-of software?)
-- [On the repositories' visibility](#on-the-repositories'-visibility)
 - [Onboarding](#onboarding)
 - [GitHub etiquette](#github-etiquette)
 
