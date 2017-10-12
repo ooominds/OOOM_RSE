@@ -131,4 +131,4 @@ if you feel you need additional training or are struggling with your software do
 
 We are here to help you to develop better research software...
 
-<center><img src='./assets/BSBR.jpg height='400px'></center>
+![bb](/assets/BSBR.jpg)
