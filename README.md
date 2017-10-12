@@ -1,5 +1,15 @@
 # Out of Our Minds - Research Software Engineering
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+- [Github as a central tool for collaboration](#github-as-a-central-tool-for-collaboration)
+- [What do you mean by ALL the pieces of software?](#what-do-you-mean-by-ALL-the-pieces-of software?)
+- [On the repositories' visibility](#on-the-repositories'-visibility)
+- [Onboarding](#onboarding)
+- [GitHub etiquette](#github-etiquette)
+
+<!-- /TOC -->
+
+
 This repository contains all the RSE related tasks for the Out of Our Minds project.
 
 Your assigned RSEs for this project are:
