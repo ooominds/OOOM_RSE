@@ -1,5 +1,23 @@
 # Onboarding for OOOminders
 
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Onboarding for OOOminders](#onboarding-for-ooominders)
+	- [Introduction](#introduction)
+	- [Getting you up and running](#getting-you-up-and-running)
+		- [Site licensed software](#site-licensed-software)
+		- [Open Source software](#open-source-software)
+	- [Following steps](#following-steps)
+	- [Some useful resources](#some-useful-resources)
+		- [Online learning resources](#online-learning-resources)
+		- [Cheatsheets](#cheatsheets)
+		- [Additional resources](#additional-resources)
+	- [Something else... Storage!!](#something-else-storage)
+		- [**Important**](#important)
+
+<!-- /TOC -->
+
+## Introduction
 This is your starting point to get you up and running with your computational work as an OOOminder.
 
 (Please note that this is still a work in progress and you can help to make this a better onboarding experience for those that come after you! Want to add something? Create a Pull request and get going 👩🏻‍💻)
@@ -65,13 +83,15 @@ You can use a mixture of GUI and command line for your workflow... writing good 
 - You will be required to attend a RSE workshop/induction in the next couple of weeks, make sure to check the project google calendar for the full details.
 
 
-| Induction                                                        | Facilitaror  | Date     | Target audience |
+| Induction                                                        | Facilitator  | Date     | Time|
 |------------------------------------------------------------------|--------------|----------|-----------------|
-| Getting started with version control and software best practices | Tania Allard | 06/10/17 | PhDs and RAs    |
+| Introduction to High Performance Computing | Tania / Mike | 24/10/17 | 13:00 - 15:00 |
 
 - Get a GitHub account at [ https://github.com](https://github.com)
   - **PhDs**: you might want to apply for a [student developer pack](https://education.github.com/pack). It comes with loads of cool tools for software development (including free TravisCI for your projects)
   - **RAs**: you cannot get a student's account but you can get a get a discount [here](https://education.github.com/discount_requests/new) and this will allow you to have free private repositories
+
+- Get a SHARC account at [https://www.sheffield.ac.uk/cics/research/hpc/sharc](https://www.sheffield.ac.uk/cics/research/hpc/sharc)
 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
@@ -83,7 +103,8 @@ If you want to refresh some of your skills before your upcoming induction sessio
 
 ### Cheatsheets
 - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Git command line cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)- [MATLAB commands in NumPy](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
+- [Git command line cheatsheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+- [MATLAB commands in NumPy](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)
 
 ### Additional resources
 - [Git glossary](https://help.github.com/articles/github-glossary/)
@@ -105,7 +126,7 @@ the `ooominds1` directory might not appear. This is because it is made available
 The storage area can also be made available on your own desktops and laptops.
 Details can be found [here](https://www.sheffield.ac.uk/cics/research-storage/using-research-storage).
 
-### **Important**:
+### **Important**
 if you feel you need additional training or are struggling with your software do not hesitate and approach your RSE, she/he will be happy to discuss this with you and point you in the right direction
 
 We are here to help you to develop better research software...
