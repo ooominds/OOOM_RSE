@@ -91,7 +91,9 @@ You can use a mixture of GUI and command line for your workflow... writing good 
   - **PhDs**: you might want to apply for a [student developer pack](https://education.github.com/pack). It comes with loads of cool tools for software development (including free TravisCI for your projects)
   - **RAs**: you cannot get a student's account but you can get a get a discount [here](https://education.github.com/discount_requests/new) and this will allow you to have free private repositories
 
+**Important: before your next induction session make sure to perform the following steps:**
 - Get a SHARC account at [https://www.sheffield.ac.uk/cics/research/hpc/sharc](https://www.sheffield.ac.uk/cics/research/hpc/sharc)
+- Install MobaXterm [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html). Make sure you get the home edition
 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
