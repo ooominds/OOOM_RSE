@@ -85,7 +85,7 @@ You can use a mixture of GUI and command line for your workflow... writing good 
 
 | Induction                                                        | Facilitator  | Date     | Time|
 |------------------------------------------------------------------|--------------|----------|-----------------|
-| Introduction to High Performance Computing | Tania / Mike | 24/10/17 | 13:00 - 15:00 |
+| Introduction to High Performance Computing | Tania / Mike | 31/10/17 | 13:00 - 14:00 |
 
 - Get a GitHub account at [ https://github.com](https://github.com)
   - **PhDs**: you might want to apply for a [student developer pack](https://education.github.com/pack). It comes with loads of cool tools for software development (including free TravisCI for your projects)
