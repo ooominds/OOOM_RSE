@@ -95,7 +95,7 @@ You will be required to attend RSE workshops/inductions every now and then, make
 
 **Important: before your next induction session make sure to perform the following steps:**
 - Get a SHARC account at [https://www.sheffield.ac.uk/cics/research/hpc/sharc](https://www.sheffield.ac.uk/cics/research/hpc/sharc)
-- Install MobaXterm [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html). Make sure you get the home edition
+- Install MobaXterm [https://mobaxterm.mobatek.net/download.html](https://mobaxterm.mobatek.net/download.html). Make sure you get the home edition (**Windows users only**)
 
 ## Some useful resources
 If you want to refresh some of your skills before your upcoming induction session feel free to visit the following resources:
