@@ -8,6 +8,7 @@
 		- [Site licensed software](#site-licensed-software)
 		- [Open Source software](#open-source-software)
 	- [Following steps](#following-steps)
+		- [Inductions](#inductions)
 	- [Some useful resources](#some-useful-resources)
 		- [Online learning resources](#online-learning-resources)
 		- [Cheatsheets](#cheatsheets)
@@ -80,7 +81,8 @@ My favourite is [GitKraken](https://www.gitkraken.com). Although others prefer [
 
 You can use a mixture of GUI and command line for your workflow... writing good software and following best practices should not be overcomplicated, but it takes practice and commitment (just like science right?).
 
-- You will be required to attend a RSE workshop/induction in the next couple of weeks, make sure to check the project google calendar for the full details.
+### Inductions
+You will be required to attend RSE workshops/inductions every now and then, make sure to check the project google calendar for the full details.
 
 
 | Induction                                                        | Facilitator  | Date     | Time|
